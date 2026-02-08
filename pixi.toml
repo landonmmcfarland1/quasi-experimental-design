@@ -1,0 +1,16 @@
+[workspace]
+authors = ["landonmmcfarland1 <landon.m.mcfarland@gmail.com>"]
+channels = ["conda-forge"]
+name = "quasi-experimental-design"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.14.*"
+marimo = ">=0.19.8,<0.20"
+pandas = ">=3.0.0,<4"
+statsmodels = ">=0.14.6,<0.15"
+seaborn = ">=0.13.2,<0.14"
+pyarrow = ">=23.0.0,<24"
