@@ -12,7 +12,7 @@ During World War II, the U.S. federal government operated childcare centers to e
 
 ### Novel Contribution
 
-While Herbst (2013) focused on labor force entry (the **extensive margin**), this project extends the analysis to examine transitions within the labor force—specifically, whether childcare access enabled already-employed mothers to shift from part-time to full-time work (the **intensive margin**).
+While Herbst (2017) focused on labor force entry (the **extensive margin**), this project extends the analysis to examine transitions within the labor force—specifically, whether childcare access enabled already-employed mothers to shift from part-time to full-time work (the **intensive margin**).
 
 ## Key Findings
 
